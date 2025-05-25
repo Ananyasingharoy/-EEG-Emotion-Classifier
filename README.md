@@ -22,7 +22,7 @@ This project classifies human emotional states using EEG signal features extract
 Random Forest achieved the highest accuracy with great generalization on validation data.
 
 
-## 🛠 How to Run This Project
+##  How to Run This Project
 
 1. Clone the repository  
 2. Install dependencies from `requirements.txt`:
